@@ -6,8 +6,7 @@
 
 ## Adding to Xcode
 * *Xcode* → *File* → *Swift Packages* → *Add Package Dependency...*
-* Use `https://github.com/Dynatrace/swift-mobile-sdk.git` to add the Dynatrace package repository.
-* Select the desired product (`Dynatrace` or `DynatraceSessionReplay`).
+* Use `https://github.com/ILYA2606/Dynatrace.git` to add the Dynatrace package repository.
 * To update the package version rule double-click the `Dynatrace` entry in the *Swift Packages* tab of the Xcode project settings.
 * To update the product selection you have to remove the package and add it again (as of Xcode 12 there is no edit feature for Swift packages).
 
@@ -18,12 +17,6 @@
 
 ### Dynatrace
 This adds Dynatrace OneAgent for Mobile for automatic mobile app instrumentation.
-
-### Dynatrace-Static
-This adds Dynatrace OneAgent for Mobile for automatic mobile app instrumentation as static XCFramework
-
-### DynatraceSessionReplay
-This adds Session Replay module for replay on crash. This product includes Dynatrace OneAgent for Mobile and is not available for tvOS.
 
 ## Configuration
 Follow the configuration setup for instrumenting mobile apps from the Dynatrace UI:
