@@ -3,7 +3,7 @@
 //  Dynatrace-Framework
 //
 //  Created by Neal T. Leverenz on 11/25/15.
-//  Copyright © 2015-2016 Dynatrace LLC. All rights reserved.
+//  Copyright © 2015-2022 Dynatrace LLC. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
@@ -15,4 +15,4 @@ FOUNDATION_EXPORT double Dynatrace_FrameworkVersionNumber;
 FOUNDATION_EXPORT const unsigned char Dynatrace_FrameworkVersionString[];
 
 // In this header, you should import all the public headers of your framework
-#import "Dynatrace.h"
+#import <Dynatrace/Dynatrace.h>

@@ -6,15 +6,15 @@
 	<dict>
 		<key>Headers/Dynatrace.h</key>
 		<data>
-		TJgntwkDDboqC9GhJbPgU5NL/fo=
+		dCfz4JDNrJ9dsQ0Y7e8RRSL+M/Y=
 		</data>
 		<key>Headers/Framework.h</key>
 		<data>
-		hbWCbhq55d3gxKmT0rNr7XvJlfI=
+		017HCFeEpxIdSxaugOVfz6JGwM4=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		bqO3wFYpdZ3lWO1xtO+sHFzxg6Y=
+		gBeXGmfM4qH1vjNxOs1pgFhw8i0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -27,14 +27,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gMWa5OKrxmcT2ggRI+7JsIdZl5bUIKziDTFuNvyBS3I=
+			YdCQUm7lAQHPQqdtvtct7VPUZ+Dg7hKkOvf9pQSCFfc=
 			</data>
 		</dict>
 		<key>Headers/Framework.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uATfbZu3lX8Rq+Sam+OyoFPIP1k1BAXnvNSvl18wybQ=
+			RnTYWfurbb/o7OPJbwgdfGEqaJcRZrjgMGnhmuuSggY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
